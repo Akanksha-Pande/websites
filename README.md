@@ -1,2 +1,4 @@
 #Sample file
-Welcome to git
+
+Welcome to git repo.
+Hello
